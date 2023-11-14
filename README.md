@@ -1,5 +1,5 @@
 # Project Title - covid-19 Data Analysis
-Technologies Used: Microsoft powerBI, XML, Exploratory Data Analysis
+Technologies Used: Microsoft powerBI, MS Excel, Exploratory Data Analysis
 
 This project is to analyze the Covid-19 data which includes the death count, confirmed cases, etc.
 Covid-19 is caused by a coronavirus called SARS-CoV-2. It was first identified in Wuhan, China
