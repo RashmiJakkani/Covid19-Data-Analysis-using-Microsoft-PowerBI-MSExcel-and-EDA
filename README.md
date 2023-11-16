@@ -1,4 +1,4 @@
-# Project Title - covid-19 Data Analysis
+# Project Title - Covid-19 Data Analysis
 Technologies Used: Microsoft powerBI, MS Excel, Exploratory Data Analysis
 
 This project is to analyze the Covid-19 data which includes the death count, confirmed cases, etc.
